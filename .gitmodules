@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "rDGIdb"]
-	path = rDGIdb
-	url = https://git.bioconductor.org/packages/rDGIdb
 [submodule "scROSHI"]
 	path = scROSHI
 	url = https://github.com/cran/scROSHI
